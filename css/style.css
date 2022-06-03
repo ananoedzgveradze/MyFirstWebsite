@@ -1,11 +1,8 @@
-/* header */
-
-/*
-* Prefixed by https://autoprefixer.github.io
+/* * Prefixed by https://autoprefixer.github.io
 * PostCSS: v8.4.12,
 * Autoprefixer: v10.4.4
 * Browsers: last 4 version
-*/
+*/ 
 
 .header {
     max-width: 100%;
@@ -429,8 +426,8 @@ ul {
     font-weight: 500;
     color: #fff;
     cursor: pointer;
-    background-image: -webkit-gradient(linear,left top, right top,from(#e052a0),to(#f15c41))!important;
     background-image: -o-linear-gradient(left,#e052a0,#f15c41)!important;
+    background-image: -webkit-gradient(linear,left top, right top,from(#e052a0),to(#f15c41))!important;
     background-image: linear-gradient(to right,#e052a0,#f15c41)!important;
     border-radius: 3px;
     padding: 16px 18px 15px;
@@ -452,8 +449,8 @@ ul {
     font-weight: 500;
     color: #fff;
     cursor: pointer;
-    background-image: -webkit-gradient(linear,left top, right top,from(#e052a0),to(#f15c41))!important;
     background-image: -o-linear-gradient(left,#e052a0,#f15c41)!important;
+    background-image: -webkit-gradient(linear,left top, right top,from(#e052a0),to(#f15c41))!important;
     background-image: linear-gradient(to right,#e052a0,#f15c41)!important;
     border-radius: 3px;
     padding: 16px 18px 15px;
@@ -566,11 +563,19 @@ img {
     font-family: 'Indie Flower', cursive;
 }
 
-.fa-2 .fa-3 {
+.fa-1 {
   margin-left: 158px;
   font-size: 40px;
 }
 
+.fa-2 {
+    margin-left: 158px;
+    font-size: 40px;
+  }
+.fa-3{
+    margin-left: 158px;
+    font-size: 40px;
+  }
 hr {
     margin-top: 20px;
    
