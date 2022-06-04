@@ -212,7 +212,7 @@ ul {
     left: 1020px;
     color: rgb(255, 8, 247);
     font-size: 50px;
-    font-family: 'My Organization', sans-serif;
+    font-family: 'Indie Flower', cursive;
     font-weight: bold;
 }
 
@@ -606,7 +606,8 @@ hr {
             justify-content: space-between;
 }
 .boxtext1 {
-   font-family: 'IBS Hagio Graphics', sans-serif; 
+    font-family: 'Dosis', sans-serif;
+    font-weight: bold;
 }
 
 .hr2 {
@@ -823,7 +824,7 @@ hr {
     margin-top: 20px;
     font-size: 30px;
     font-weight: bold;
-    font-family: 'Nagaiya', sans-serif;
+    font-family: 'Indie Flower', cursive;
 
 }
 
@@ -831,7 +832,7 @@ hr {
     font-size: 20px;
     margin-top: 40px;
     font-weight: bolder;
-    font-family: 'Nagaiya', sans-serif;
+    font-family: 'Indie Flower', cursive;
 }
 
 #firstname {
