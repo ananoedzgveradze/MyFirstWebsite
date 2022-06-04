@@ -310,7 +310,7 @@ ul {
     height: 40px;
   }
   .title2 {
-    font-family: "Montserrat", sans-serif;
+    font-family: 'Indie Flower', cursive;
     font-weight: 800;
     font-size:70px;
     text-transform: uppercase;
@@ -333,7 +333,7 @@ ul {
 .aboutustext {
       margin-top: -50px;
       font-size: 30px;
-      font-family: 'My Organization', sans-serif;
+      font-family: 'Indie Flower', cursive;
       line-height: 40px;
 }
 
